@@ -1,5 +1,5 @@
 # schoolhouserock
-This Word macro converts Word 'track changes' into text decoration so it's printable. Useful for turning bill drafts with tracked changes into more readable PDFs.
+This Word macro converts Word 'track changes' and LIS bill text into text decoration so it's printable. Useful for turning bill drafts with tracked changes into more readable PDFs.
 
 ## How to install
 Microsoft Word => Tools => Macros => '+' symbol => Type 'SchoolHouseRock' in the top bar => Paste in this code.
